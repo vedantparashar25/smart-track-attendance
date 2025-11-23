@@ -1,12 +1,17 @@
 SMART TRACK – Attendance Management System (CLI)
+
 A lightweight and efficient Command-Line Attendance Management System built with Python.
 Designed for quick student registration, attendance tracking, and automated report generation.
+
 FEATURES
+
 • Add, view, and delete students
 • Mark attendance with simple prompts
 • JSON-based data storage
 • Auto-generated attendance reports with percentages
+
 PROJECT STRUCTURE
+
 attandance.py - Main Python script
 attendance_data.json - Auto-generated storage file
 README.md - Documentation
@@ -25,5 +30,6 @@ FUTURE ENHANCEMENTS
 • Export to PDF/Excel
 • QR code/RFID-based attendance
 • Cloud sync
-AUTHOR
+ AUTHOR
 Vedant Parashar
+regno.25bai11290
