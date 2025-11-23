@@ -30,6 +30,8 @@ FUTURE ENHANCEMENTS
 • Export to PDF/Excel
 • QR code/RFID-based attendance
 • Cloud sync
+
  AUTHOR
+ 
 Vedant Parashar
 regno.25bai11290
